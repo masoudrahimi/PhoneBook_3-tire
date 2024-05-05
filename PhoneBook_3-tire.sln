@@ -13,7 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DAL", "DAL\DAL.csproj", "{9
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BLL", "BLL\BLL.csproj", "{769F07D7-FB57-44CB-913A-0C0A1AB7C8BD}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UI_wniForm", "UI_wniForm\UI_wniForm.csproj", "{D2D4A153-B27D-4A71-BD3B-CD5985E0AC4B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UI_winForm", "UI_wniForm\UI_winForm.csproj", "{D2D4A153-B27D-4A71-BD3B-CD5985E0AC4B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

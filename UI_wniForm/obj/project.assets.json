@@ -2875,9 +2875,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Masoud.NET\\Desktop\\MyProjects\\PhoneBook_3-tire\\UI_wniForm\\UI_wniForm.csproj",
-      "projectName": "UI_wniForm",
-      "projectPath": "C:\\Users\\Masoud.NET\\Desktop\\MyProjects\\PhoneBook_3-tire\\UI_wniForm\\UI_wniForm.csproj",
+      "projectUniqueName": "C:\\Users\\Masoud.NET\\Desktop\\MyProjects\\PhoneBook_3-tire\\UI_wniForm\\UI_winForm.csproj",
+      "projectName": "UI_winForm",
+      "projectPath": "C:\\Users\\Masoud.NET\\Desktop\\MyProjects\\PhoneBook_3-tire\\UI_wniForm\\UI_winForm.csproj",
       "packagesPath": "C:\\Users\\Masoud.NET\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Masoud.NET\\Desktop\\MyProjects\\PhoneBook_3-tire\\UI_wniForm\\obj\\",
       "projectStyle": "PackageReference",

@@ -66,3 +66,5 @@ C:\Users\Masoud.NET\Desktop\MyProjects\PhoneBook_3-tire\UI_wniForm\bin\Debug\net
 C:\Users\Masoud.NET\Desktop\MyProjects\PhoneBook_3-tire\UI_wniForm\bin\Debug\net7.0-windows\runtimes\win-x64\native\WebView2Loader.dll
 C:\Users\Masoud.NET\Desktop\MyProjects\PhoneBook_3-tire\UI_wniForm\bin\Debug\net7.0-windows\runtimes\win-x86\native\WebView2Loader.dll
 C:\Users\Masoud.NET\Desktop\MyProjects\PhoneBook_3-tire\UI_wniForm\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Masoud.NET\Desktop\MyProjects\PhoneBook_3-tire\UI_wniForm\obj\Debug\net7.0-windows\UI_wniForm.Forms.frmMain.resources
+C:\Users\Masoud.NET\Desktop\MyProjects\PhoneBook_3-tire\UI_wniForm\obj\Debug\net7.0-windows\UI_wniForm.Forms.Form1.resources
